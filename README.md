@@ -1,6 +1,27 @@
-# 💫 About Me:
-# 💫 About Me:<br>🚀 MERN Stack Developer | AI & Machine Learning Enthusiast | Final-Year B.Tech Student  <br><br>🔭 Building scalable full-stack web applications using React.js, Node.js, Express.js & MongoDB  <br>🌱 Exploring Artificial Intelligence, Machine Learning, scalable backend architecture, and web performance optimization  <br>🏆 Hackathon Winner | IEEE Vice-Chairperson | Open Source Learner  <br>💬 Passionate about creating impactful digital products with modern technologies  <br>⚡ Love turning innovative ideas into real-world applications  <br><br>## 🚀 Tech Stack & Skills<br>💻 Frontend: React.js, HTML5, CSS3, Chakra UI  <br>🖥️ Backend: Node.js, Express.js, REST APIs, Socket.io, WebRTC  <br>🗄️ Database: MongoDB, MySQL  <br>☕ Programming: Core Java, JavaScript (ES6+), SQL  <br>🤖 AI & ML: Machine Learning, TensorFlow.js, Face Recognition, AI Integration  <br>🛠️ Tools: Git, GitHub, Postman, VS Code, Chrome DevTools  <br>⚡ Concepts: MERN Stack, JWT Authentication, RBAC, MVC Architecture, Agile Development
+# Hi 👋, I'm Rohit Kamble
 
+### MERN Stack Developer | AI & Machine Learning Enthusiast
+
+- 🔭 Building scalable full-stack web applications using React.js, Node.js, Express.js, and MongoDB
+- 🌱 Exploring Artificial Intelligence, Machine Learning, and scalable backend systems
+- 🏆 Hackathon Winner | IEEE Vice-Chairperson
+- 💬 Ask me about MERN Stack, REST APIs, WebRTC, and AI Integration
+- ⚡ Passionate about creating impactful digital products
+
+## 💻 Tech Stack
+
+**Frontend:** React.js, HTML5, CSS3, Chakra UI  
+**Backend:** Node.js, Express.js, REST APIs, Socket.io, WebRTC  
+**Database:** MongoDB, MySQL  
+**Programming:** Core Java, JavaScript (ES6+), SQL  
+**AI & ML:** Machine Learning, TensorFlow.js, Face Recognition  
+**Tools:** Git, GitHub, Postman, VS Code  
+
+## 🌐 Connect With Me
+
+- LinkedIn: linkedin.com/in/rohit-kamble
+- Instagram: @lear_nwithrohit
+- Email: itsrohitrk.official@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lear_nwithrohit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ linkedin.com/in/rohit-kamble) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsrohitrk.official@gmail.com) 
